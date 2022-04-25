@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Carlos!</h1>
 <h3 align="center">A passionate developer and data scientist from Ecuador 🇪🇨</h3>
 
-- 🌱 I’m currently learning **feature engineering and selection.**
+- 🌱 I’m currently learning **Feature Engineering and Selection: A Practical Approach for Predictive Models by Max Kuhn and Kjell Johnson**
 
 - 📝 I occasionally write articles on [medium.com/@cjperezvelez](medium.com/@cjperezvelez)
 

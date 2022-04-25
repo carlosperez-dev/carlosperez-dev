@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carlos</h1>
+<h1 align="center">Hi 👋🏼, I'm Carlos!</h1>
 <h3 align="center">A passionate developer and data scientist from Ecuador 🇪🇨</h3>
 
 - 🌱 I’m currently learning **feature engineering and selection.**

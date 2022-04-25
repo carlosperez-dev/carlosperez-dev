@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Feature Engineering and Selection: A Practical Approach for Predictive Models by Max Kuhn and Kjell Johnson**
 
-- 📝 I occasionally write articles on [medium.com/@cjperezvelez](medium.com/@cjperezvelez)
+- 📝 I occasionally write articles on [medium.com/@cjperezvelez](https://medium.com/@cjperezvelez)
 
 - 💬 Ask me about **NLTK and MediaPipe.**
 
 - 📫 How to reach me **cjperezvelez@gmail.com**
 
-- ⚡ Fun fact **I co-founded LatAm Dialogue, a blog that aims to foster discussion of Latin America’s issues, news and trends in the English speaking world.**
+- ⚡ Fun fact **I co-founded [LatAm Dialogue](https://www.latamdialogue.org/), a blog that aims to foster discussion of Latin America’s issues, news and trends in the English speaking world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

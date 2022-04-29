@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Feature Engineering and Selection: A Practical Approach for Predictive Models by Max Kuhn and Kjell Johnson**
 
+- 📚 I’m currently reading **The Long Game: How to Be a Long-Term Thinker in a Short-Term World by Dorie Clark**
+
 - 📝 I occasionally write articles on [medium.com/@cjperezvelez](https://medium.com/@cjperezvelez)
 
 - 💬 Ask me about **NLTK and MediaPipe.**

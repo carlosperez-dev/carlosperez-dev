@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋🏼, I'm Carlos!</h1>
 <h3 align="center">A passionate developer and data scientist from Ecuador 🇪🇨</h3>
 
-- 🌱 I’m currently learning **Feature Engineering and Selection: A Practical Approach for Predictive Models by Max Kuhn and Kjell Johnson**
+- 🌱 I’m currently learning **C#**
 
-- 📚 I’m currently reading **The Long Game: How to Be a Long-Term Thinker in a Short-Term World by Dorie Clark**
+- 📚 I’m currently reading **TThe Defining Decade: Why Your Twenties Matter--And How to Make the Most of Them Now by Meg Jay**
 
 - 📝 I occasionally write articles on [medium.com/@cjperezvelez](https://medium.com/@cjperezvelez)
 
-- 💬 Ask me about **NLTK and MediaPipe.**
+- 💬 Ask me about **Natural language processing**
 
 - 📫 How to reach me **cjperezvelez@gmail.com**
 

@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 📚 I’m currently reading **TThe Defining Decade: Why Your Twenties Matter--And How to Make the Most of Them Now by Meg Jay**
+- 📚 I’m currently reading **The Defining Decade: Why Your Twenties Matter--And How to Make the Most of Them Now by Meg Jay**
 
 - 📝 I occasionally write articles on [medium.com/@cjperezvelez](https://medium.com/@cjperezvelez)
 

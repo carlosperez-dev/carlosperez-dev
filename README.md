@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Carlos!</h1>
-<h3 align="center">A passionate developer and data scientist from Ecuador 🇪🇨</h3>
+<h3 align="center">A passionate software engineer and data scientist from Ecuador 🇪🇨</h3>
 
 - 🌱 I’m currently learning **C#**
-
-- 📚 I’m currently reading **The Defining Decade: Why Your Twenties Matter--And How to Make the Most of Them Now by Meg Jay**
-
-- 📝 I occasionally write articles on [medium.com/@cjperezvelez](https://medium.com/@cjperezvelez)
-
-- 💬 Ask me about **Natural language processing**
 
 - ⚡ Fun fact **I co-founded [LatAm Dialogue](https://www.latamdialogue.org/), a blog that aims to foster discussion of Latin America’s issues, news and trends in the English speaking world.**
 

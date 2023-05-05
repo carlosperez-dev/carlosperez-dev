@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Carlos!</h1>
 <h3 align="center">A passionate software engineer and data scientist from Ecuador 🇪🇨</h3>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Next.js**
 
 - ⚡ Fun fact **I co-founded [LatAm Dialogue](https://www.latamdialogue.org/), a blog that aims to foster discussion of Latin America’s issues, news and trends in the English speaking world.**
 

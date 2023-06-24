@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Carlos!</h1>
-<h4 align="center">Ecuador 🇪🇨</h4>
+<h4 align="center">Born and raised in 🇪🇨</h4>
 
 - 🌱 I’m currently learning **Next.js**
   

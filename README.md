@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋🏼, I'm Carlos!</h1>
-<h3 align="center">A passionate software engineer and data scientist from Ecuador 🇪🇨</h3>
+<h4 align="center">Ecuador 🇪🇨</h4>
 
 - 🌱 I’m currently learning **Next.js**
-
-- ⚡ Fun fact **I co-founded [LatAm Dialogue](https://www.latamdialogue.org/), a blog that aims to foster discussion of Latin America’s issues, news and trends in the English speaking world.**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/carlosjperezv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosjperezv" height="30" width="40" /></a>

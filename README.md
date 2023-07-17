@@ -44,15 +44,6 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="Keras" width="40" height="40"/>
   </a>
 </p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosperez-dev&show_icons=true&locale=en&layout=compact" alt="carlosperez-dev" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosperez-dev&show_icons=true&locale=en" alt="carlosperez-dev" />
-</p>
-
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosperez-dev&" alt="carlosperez-dev" />
 </p>

@@ -1,4 +1,4 @@
-# Hi 👋🏼, I'm Carlos!
+# Hello, I'm Carlos!
 ### Born and raised in 🇪🇨</h4>
 - I’m currently learning **Go**
   

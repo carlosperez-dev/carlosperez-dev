@@ -1,5 +1,5 @@
 # Hello, I'm Carlos!
-### Born and raised in 🇪🇨</h4>
+### Born and raised in Ecuador
 - I’m currently learning **Go**
   
 ### Connect with me:
